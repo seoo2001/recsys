@@ -1,2 +1,2 @@
-from FM import FM
-from DeepFM import DeepFM
+from .fm import FM
+from .deepfm import DeepFM
